@@ -1,2 +1,0 @@
-# Redes
-Prácticas de redes
